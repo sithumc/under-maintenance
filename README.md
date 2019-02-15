@@ -1,1 +1,1 @@
-Simple and under maintenance static page on web port
+Simple under maintenance static page on web port
